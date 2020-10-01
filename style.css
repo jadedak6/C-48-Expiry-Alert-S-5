@@ -1,0 +1,19 @@
+html, body {
+  margin: 1%;
+  background-color: #E7F3FF;
+  font-family: "Segoe UI", sans-serif;
+  font-weight: 100;
+  letter-spacing: 1px;
+  margin-left: 50px;
+  font-size: 17px;
+}
+canvas {
+  border: 2px solid black;
+}
+
+.title{
+  font-family: "Segoe UI", sans-serif;
+  font-size: 40px;
+  font-weight: 100;
+  letter-spacing: 2px;
+}
